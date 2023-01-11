@@ -23,6 +23,6 @@ public class Config
     }
 
     public void masterTearDown() {
-//        driver.quit();
+    driver.quit();
     }
 }
